@@ -1,0 +1,8 @@
+1 pwd
+2 ls
+3 mkdir semana-2
+4 touch preguntas-semana2.txt
+5 nano preguntas-semana2.txt
+6 nano reflexion-semana2.txt
+7 nano comandos-terminal.txt
+8 ls
